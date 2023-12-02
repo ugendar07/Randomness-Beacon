@@ -30,7 +30,7 @@ Additionally, a frontend application has been developed to provide a user-friend
 
 2. Navigate to the project directory:
      
-  ```cd randomness-beacon```
+     ```cd randomness-beacon```
 
 3. Install dependencies:
 
@@ -38,13 +38,13 @@ Additionally, a frontend application has been developed to provide a user-friend
 
 4. Compile and deploy the smart contract:
 
-  ```
-  truffle compile
-  truffle migrate
-  ```
+     ```
+     truffle compile
+     truffle migrate
+     ```
 5. Run the frontend application:
 
-     ```npm run start```
+      ```npm run start```
 
 ## Usage
 - Connect your Ethereum wallet to the frontend application.
