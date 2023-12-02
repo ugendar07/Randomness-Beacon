@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "compile": "solcjs --abi --include-path node_modules/ --base-path . ./contracts/RandomnessBeacon.sol --output-dir build"
+  },
+  "dependencies": {
+    "web3": "^4.2.2"
+  }
+}
